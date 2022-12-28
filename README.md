@@ -1,4 +1,4 @@
-# AffinityPred-test
+# AffinityPredt
 ## About
 This repository contains a pipeline prototype for TF affinity binding sites for a given genome interval of a sample.
 
