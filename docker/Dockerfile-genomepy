@@ -1,0 +1,10 @@
+# docker image is from base python docker
+FROM python
+#setup a working dir 
+WORKDIR /work
+# python packages required for installing genomes
+COPY requirements.txt .
+# install required python packages
+RUN pip install -r requirements.txt
+# when run interactively run bash
+CMD ["bash"]

@@ -1,0 +1,6 @@
+Arabidopsis_thaliana;TAIR10.1;NCBI
+Aspergillus_nidulans;ASM1142v1;NCBI
+Caenorhabditis_elegans;WBcel235;UCSC
+Homo_sapiens;Hg19;UCSC
+Mus_Musculus;GRCm39;UCSC
+Saccharomyces_cerevisiae;sacCer3;UCSC
